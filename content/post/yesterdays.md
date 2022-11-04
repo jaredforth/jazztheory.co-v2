@@ -1,6 +1,6 @@
 ---
 title: Yesterdays
-date: 2017-04-30
+date: 2021-10-15
 hero: https://cdn-images-1.medium.com/max/800/1*PWnJJxjiuUINGkeWL8eSKA.png
 excerpt: Harmonic analysis of the jazz standard "Yesterdays" by Jerome Kern..
 timeToRead: 3
@@ -11,8 +11,6 @@ authors:
 Harmonic analysis of the jazz standard "Yesterdays" by Jerome Kern.
 
 <!--more-->
-
-![Yesterdays Jazz Harmonic Analysis](https://cdn-images-1.medium.com/max/800/1*PWnJJxjiuUINGkeWL8eSKA.png)
 
 *Yesterdays* was composed by Jerome Kern in 1933. The song follows a 16 bar form and is originally in the key of D minor. This is an analysis of the harmony in *Yesterdays* and an explanation of the concepts used in the analysis. The image above shows my full analysis, which I will explore in more detail below. You can refer to the [conventions page](https://jazztheory.co/conventions-theory/) to explore the analytic concepts used or [get the PDF](https://jaredforth.gumroad.com/l/yesterdays) for free.
 

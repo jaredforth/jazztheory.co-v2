@@ -1,6 +1,6 @@
 ---
 title: Round Midnight
-date: 2017-04-30
+date: 2021-09-14
 hero: https://cdn-images-1.medium.com/max/800/1*K2z4od2oCC67p1B4sjmoqQ.png
 excerpt: Harmonic analysis of the jazz standard "'Round Midnight" by Thelonius Monk.
 timeToRead: 3
@@ -11,8 +11,6 @@ authors:
 Harmonic analysis of the jazz standard "'Round Midnight" by Thelonius Monk.
 
 <!--more-->
-
-![Round Midnight Harmonic Analysis](https://cdn-images-1.medium.com/max/800/1*K2z4od2oCC67p1B4sjmoqQ.png)
 
 *'Round Midnight* was composed by Thelonius Monk in 1944. The song has an AABA form and was originally in Eb minor. This is an analysis of the harmony in '*Round Midnight* and an explanation of concepts used in the analysis. The image above shows the full analysis which will be further explored below. You can refer to the [conventions page](https://jazztheory.co/conventions-theory/) to explore the analytic concepts used or [get the PDF](https://jaredforth.gumroad.com/l/round-midnight) for free.
 

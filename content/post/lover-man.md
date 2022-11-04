@@ -1,6 +1,6 @@
 ---
 title: Lover Man
-date: 2017-04-30
+date: 2021-09-22
 hero: https://cdn-images-1.medium.com/max/800/1*viobqqZMqmxCq3bjRioq-w.png
 excerpt: Harmonic analysis of the jazz standard "Lover Man (Oh, Where Can You Be?)" by Jimmy Davis.
 timeToRead: 3
@@ -11,8 +11,6 @@ authors:
 Harmonic analysis of the jazz standard "Lover Man (Oh, Where Can You Be?)" by Jimmy Davis.
 
 <!--more-->
-
-![Lover Man Jazz Harmonic Analysis](https://cdn-images-1.medium.com/max/800/1*viobqqZMqmxCq3bjRioq-w.png)
 
 
 *Lover Man (Oh, Where Can You Be?)* was composed by Jimmy Davis in 1942. The song follows an *AABA* form and is originally in the key of *C major*. This is an analysis of the harmony in *Lover Man (Oh, Where Can You Be?)* and an explanation of the concepts used in the analysis. The image above shows my full analysis, which I will walk through below. You can refer to the [conventions page](https://jazztheory.co/conventions-theory/) to explore the analytic concepts used or [get the PDF](https://jaredforth.gumroad.com/l/lover-man) for free.

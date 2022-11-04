@@ -1,9 +1,9 @@
 ---
 title: All the Things You Are
-date: 2017-04-30
+date: 2021-08-23
 hero: https://miro.medium.com/max/700/1*OegKFKhHUqHEFQNbdfBJmA.png
 excerpt: Harmonic analysis of the jazz standard "All the Things You Are" by Jerome Kern.
-timeToRead: 3
+timeToRead: 2
 authors:
   - Jared Forth
 tags:
@@ -14,8 +14,6 @@ tags:
 Harmonic analysis of the jazz standard "All the Things You Are" by Jerome Kern.
 
 <!--more-->
-
-![All the Things You Are Jazz Harmonic Analysis](https://miro.medium.com/max/700/1*OegKFKhHUqHEFQNbdfBJmA.png)
 
 *All the Things You Are* was composed by Jerome Kern in 1939. The song follows an *AA₁BA₂* form and is originally in the key of *Ab*. This is an analysis of the harmony in *All the Things You Are and* an explanation of the concepts used in the analysis. The image above shows my full analysis, which I will walk through below. You can refer to the [conventions page](https://jazztheory.co/conventions-theory/) to explore the analytic concepts used or [get the PDF](https://jaredforth.gumroad.com/l/attya) for free.
 

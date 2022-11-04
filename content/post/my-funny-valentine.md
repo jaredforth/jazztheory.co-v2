@@ -1,6 +1,6 @@
 ---
 title: My Funny Valentine
-date: 2017-04-30
+date: 2021-09-20
 hero: https://cdn-images-1.medium.com/max/800/1*sXOhGvmSM-ymUrvOXqPYfg.png
 excerpt: Harmonic analysis of the jazz standard "My Funny Valentine" by Richard Rodgers.
 timeToRead: 3
