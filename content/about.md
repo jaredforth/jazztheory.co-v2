@@ -1,11 +1,26 @@
 ---
-title: About
+title: "About"
+description: "jazztheory.co is a website dedicate to learning jazz theory through analyzing standards."
+aliases:
+  - "about-us"
+  - "about-hugo"
+  - "contact"
+author: "Jared Forth"
+menu:
+  about:
+    name: About
+    title: About
+    url: /about
+    weight: 1
+  subpage:
+    parent: about
+    name: Post Format
+    title: Post Format
+    url: /about/format
+    weight: 10
 ---
 
-Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui.
+This website is dedicated to learning jazz theory through analyzing standards. The purpose of this site is to provide resources for learning the language of jazz through a study of the literature. There are hundreds of jazz standards, and a thorough study of these standards can teach much about the harmony, melody, and structure of the art form. This site is a work in progress and is continually being updated with more tunes.
 
-Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+Read about our [analysis conventions](https://jazztheory.co/conventions) or [view analyses](https://jazztheory.co/post). 
 
-Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.

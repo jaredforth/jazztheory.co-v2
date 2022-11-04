@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://jazztheory.co"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Harmonic analysis of jazz standards | Jazz Theory"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
@@ -16,6 +16,6 @@ social:
   instagram: "#"
   linkedin: "#"
   dribbble: "#"
-  youtube: "#"
+  youtube: "https://www.youtube.com/@jaredforthmusic"
 taxonomies:
   author: authors
