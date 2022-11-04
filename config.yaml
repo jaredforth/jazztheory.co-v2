@@ -19,3 +19,6 @@ social:
   youtube: "https://www.youtube.com/@jaredforthmusic"
 taxonomies:
   author: authors
+  tags: tags
+permalinks:
+  post: "/:filename"

@@ -6,6 +6,9 @@ excerpt: Harmonic analysis of the jazz standard "All the Things You Are" by Jero
 timeToRead: 3
 authors:
   - Jared Forth
+tags:
+  - "Jerome Kern"
+  - "A"
 ---
 
 Harmonic analysis of the jazz standard "All the Things You Are" by Jerome Kern.
