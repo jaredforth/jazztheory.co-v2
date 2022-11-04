@@ -6,13 +6,14 @@ excerpt: Harmonic analysis of the jazz standard "I Can't Get Started (With You)"
 timeToRead: 2
 authors:
   - Jared Forth
+tags:
+  - "Vernon Duke"
+  - "I"
 ---
 
 Harmonic analysis of the jazz standard "I Can't Get Started (With You)" by Vernon Duke. 
 
 <!--more-->
-
-![I Can't Get Started Harmonic Analysis](https://cdn-images-1.medium.com/max/800/1*GIk5h7hMDFuGRjwbivlAfA.png)
 
 *I Can't Get Started* was composed by Vernon Duke in 1936. The original key is *C* and the song follows a 32-bar *AABA* form. This is a harmonic analysis of the changes in *I Can't Get Started*, along with an explanation of the concepts used in the analysis. The image above shows my full analysis, which I will walk through below. You can refer to the [conventions page](https://jazztheory.co/conventions-theory/) for a deeper exploration of the analytic concepts used and [get the PDF for free](https://jaredforth.gumroad.com/l/i-cant-get-started).
 

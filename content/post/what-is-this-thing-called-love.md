@@ -6,13 +6,14 @@ excerpt: Harmonic analysis of the jazz standard "What Is This Thing Called Love?
 timeToRead: 2
 authors:
   - Jared Forth
+tags:
+  - "Cole Porter"
+  - "W"
 ---
 
 Harmonic analysis of the jazz standard "What Is This Thing Called Love?" by Cole Porter.
 
 <!--more-->
-
-![What Is This Thing Called Love Jazz Harmonic Analysis](https://cdn-images-1.medium.com/max/800/1*1Myx1XAUhF0CKXLJJKm82w.png)
 
 *What Is This Thing Called Love* was composed by Cole Porter in 1929. The song follows a 32 bar *AABA* form and is originally in the key of *C major*. This is an analysis of the harmony in *What is This Thing Called Love* and an explanation of the concepts used in the analysis. The image above shows my full analysis, which I will explore in more detail below. You can refer to the [conventions page](https://jazztheory.co/conventions-theory/) to explore the analytic concepts used or [get the PDF](https://jaredforth.gumroad.com/l/wittcl) for free.
 

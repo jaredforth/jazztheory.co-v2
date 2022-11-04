@@ -6,6 +6,9 @@ excerpt: Harmonic analysis of the jazz standard "'Round Midnight" by Thelonius M
 timeToRead: 2
 authors:
   - Jared Forth
+tags:
+  - "Thelonius Monk"
+  - "R"
 ---
 
 Harmonic analysis of the jazz standard "'Round Midnight" by Thelonius Monk.

@@ -6,14 +6,14 @@ excerpt: Harmonic analysis of the jazz standard "Body and Soul" by Johnny Green.
 timeToRead: 2
 authors:
   - Jared Forth
+tags:
+  - "Johnny Green"
+  - "B"
 ---
 
 Harmonic analysis of the jazz standard "Body and Soul" by Johnny Green. 
 
 <!--more-->
-
-![Body and Soul Jazz Harmonic Analysis](https://cdn-images-1.medium.com/max/800/1*UKo_YTvlEuVafznHmH-C3A.png)
-
 
 *Body and Soul* was composed by Johnny Green in 1930. The original key is *Db* and the song follows a 32-bar *AABA* form. This is a jazz harmonic analysis of the changes in *Body and Soul*, along with an explanation of the concepts used in the analysis. The image above shows my full analysis, which I will walk through below. You can refer to the [conventions page](https://jazztheory.co/conventions-theory/) for a deeper exploration of the analytic concepts used and [get the PDF for free](https://jaredforth.gumroad.com/l/body-and-soul).
 

@@ -2,10 +2,13 @@
 title: Yesterdays
 date: 2021-10-15
 hero: https://cdn-images-1.medium.com/max/800/1*PWnJJxjiuUINGkeWL8eSKA.png
-excerpt: Harmonic analysis of the jazz standard "Yesterdays" by Jerome Kern..
+excerpt: Harmonic analysis of the jazz standard "Yesterdays" by Jerome Kern.
 timeToRead: 2
 authors:
   - Jared Forth
+tags:
+  - "Jerome Kern"
+  - "Y"
 ---
 
 Harmonic analysis of the jazz standard "Yesterdays" by Jerome Kern.

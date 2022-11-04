@@ -6,13 +6,14 @@ excerpt: Harmonic analysis of the jazz standard "Summertime" by George Gershwin.
 timeToRead: 2
 authors:
   - Jared Forth
+tags:
+  - "George Gershwin"
+  - "S"
 ---
 
 Harmonic analysis of the jazz standard "Summertime" by George Gershwin.
 
 <!--more-->
-
-![Summertime Jazz Harmonic Analysis](https://cdn-images-1.medium.com/max/800/1*X9H7KXYNxZzO8UjFRcOaEw.png)
 
 *Summertime* was composed by George Gershwin in 1934 for the opera *Porgy and Bess*. The song has a simple 16 bar form and was originally in A minor. This is an analysis of the harmony in *Summertime* and an explanation of concepts used in the analysis. The image above shows the full analysis which will be further explored below. You can refer to the [conventions page](https://jazztheory.co/conventions-theory/) to explore the analytic concepts used or [get the PDF](https://jaredforth.gumroad.com/l/summertime-analysis) for free.
 

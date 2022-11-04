@@ -6,13 +6,14 @@ excerpt: Harmonic analysis of the jazz standard "My Funny Valentine" by Richard 
 timeToRead: 2
 authors:
   - Jared Forth
+tags:
+  - "Richard Rodgers"
+  - "M"
 ---
 
 Harmonic analysis of the jazz standard "My Funny Valentine" by Richard Rodgers.
 
 <!--more-->
-
-![My Funny Valentine: Jazz Harmonic Analysis](https://cdn-images-1.medium.com/max/800/1*sXOhGvmSM-ymUrvOXqPYfg.png)
 
 *My Funny Valentine* was composed by Richard Rodgers in 1937. The song follows an *AA₁BC* form and is originally in the key of *C minor / Eb major*. This is an analysis of the harmony in *My Funny Valentine* and an explanation of the concepts used in the analysis. The image above shows my full analysis, which I will walk through below. You can refer to the [conventions page](https://jazztheory.co/conventions-theory/) to explore the analytic concepts used or [get the PDF](https://jaredforth.gumroad.com/l/my-funny-valentine) for free.
 

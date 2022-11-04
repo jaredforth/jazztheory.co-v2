@@ -6,6 +6,9 @@ excerpt: Harmonic analysis of the jazz standard "Lover Man (Oh, Where Can You Be
 timeToRead: 2
 authors:
   - Jared Forth
+tags:
+  - "Jimmy Davis"
+  - "L"
 ---
 
 Harmonic analysis of the jazz standard "Lover Man (Oh, Where Can You Be?)" by Jimmy Davis.
