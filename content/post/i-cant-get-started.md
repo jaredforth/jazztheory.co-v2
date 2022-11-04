@@ -3,7 +3,7 @@ title: "I Can't Get Started"
 date: 2021-09-15
 hero: https://cdn-images-1.medium.com/max/800/1*GIk5h7hMDFuGRjwbivlAfA.png
 excerpt: Harmonic analysis of the jazz standard "I Can't Get Started (With You)" by Vernon Duke. 
-timeToRead: 3
+timeToRead: 2
 authors:
   - Jared Forth
 ---

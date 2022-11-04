@@ -3,7 +3,7 @@ title: Summertime
 date: 2021-08-30
 hero: https://cdn-images-1.medium.com/max/800/1*X9H7KXYNxZzO8UjFRcOaEw.png
 excerpt: Harmonic analysis of the jazz standard "Summertime" by George Gershwin.
-timeToRead: 3
+timeToRead: 2
 authors:
   - Jared Forth
 ---

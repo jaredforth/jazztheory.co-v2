@@ -3,7 +3,7 @@ title: What Is This Thing Called Love?
 date: 2021-10-04
 hero: https://cdn-images-1.medium.com/max/800/1*1Myx1XAUhF0CKXLJJKm82w.png
 excerpt: Harmonic analysis of the jazz standard "What Is This Thing Called Love?" by Cole Porter.
-timeToRead: 3
+timeToRead: 2
 authors:
   - Jared Forth
 ---

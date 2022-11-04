@@ -3,7 +3,7 @@ title: Lover Man
 date: 2021-09-22
 hero: https://cdn-images-1.medium.com/max/800/1*viobqqZMqmxCq3bjRioq-w.png
 excerpt: Harmonic analysis of the jazz standard "Lover Man (Oh, Where Can You Be?)" by Jimmy Davis.
-timeToRead: 3
+timeToRead: 2
 authors:
   - Jared Forth
 ---
